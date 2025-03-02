@@ -1,7 +1,7 @@
 {
   "name": "comunication_ltd-project",
   "version": "1.0.0",
-  "description": "This README provides a step-by-step guide for implementing a secure web application for a fictional communication company called Communication_LTD. The project demonstrates common web security vulnerabilities and their mitigations.",
+  "description": "This project demonstrates common web security vulnerabilities and their mitigations.",
   "main": "index.js",
   "type": "module",
   "scripts": {
